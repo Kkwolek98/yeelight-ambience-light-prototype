@@ -1,0 +1,17 @@
+{
+  "name": "yeelight-ambient-light-prototype",
+  "version": "1.0.0",
+  "description": "Ambient light using yeelight hardware",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Kwolek",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "node-yeelight-wifi": "^0.1.4",
+    "screenshot-desktop": "^1.12.3"
+  }
+}
